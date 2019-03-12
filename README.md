@@ -1,1 +1,1 @@
-# test_figshare_autosync v2
+# test_figshare_autosync v4
